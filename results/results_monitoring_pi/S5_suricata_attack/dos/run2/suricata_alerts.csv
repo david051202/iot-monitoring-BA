@@ -1,0 +1,1 @@
+timestamp,event_type,src_ip,src_port,dest_ip,dest_port,proto,alert_signature,alert_category,severity
