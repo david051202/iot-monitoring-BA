@@ -1,0 +1,4 @@
+timestamp,hostname,cpu_percent,ram_percent,ram_used_mb,ram_available_mb,load_1,load_5,load_15,bytes_sent_total,bytes_recv_total,bytes_sent_diff,bytes_recv_diff,packets_sent_total,packets_recv_total,packets_sent_diff,packets_recv_diff
+2026-04-21T23:22:04,IoT-Gateway-PI,0.0,5.5,135.78,3589.32,0.0,0.0,0.0,8015503,37839755,0,0,105261,126054,0,0
+2026-04-21T23:22:05,IoT-Gateway-PI,0.2,5.5,135.67,3589.42,0.0,0.0,0.0,8018279,37842665,2776,2910,105293,126088,32,34
+2026-04-21T23:22:06,IoT-Gateway-PI,0.0,5.5,136.65,3588.44,0.0,0.0,0.0,8018699,37843189,420,524,105299,126094,6,6

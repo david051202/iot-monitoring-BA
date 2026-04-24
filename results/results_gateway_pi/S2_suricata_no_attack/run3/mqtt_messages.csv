@@ -1,0 +1,580 @@
+timestamp,topic,payload_size_bytes,payload_preview
+2026-04-21T23:33:33,shellyazplug-e4b323337220/online,5,false
+2026-04-21T23:33:33,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:33:33,iot/dht11/status,6,online
+2026-04-21T23:33:33,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:33:33,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:33:33,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:33,iot/mq/status,6,online
+2026-04-21T23:33:33,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:33,iot/pir/debug,49,[0;36m[D][binary_sensor:048]: 'Motion' >> ON[0m
+2026-04-21T23:33:33,iot/pir/status,6,online
+2026-04-21T23:33:33,iot/pir/binary_sensor/motion/state,2,ON
+2026-04-21T23:33:33,homeassistant/sensor/dht11_node/temperature/config,380,"{""sug_dsp_prc"":1,""unit_of_meas"":""°C"",""stat_cla"":""measurement"",""name"":""Temperature"",""dev_cla"":""temperature"",""stat_t"":""iot"
+2026-04-21T23:33:33,homeassistant/sensor/dht11_node/humidity/config,366,"{""sug_dsp_prc"":0,""unit_of_meas"":""%"",""stat_cla"":""measurement"",""name"":""Humidity"",""dev_cla"":""humidity"",""stat_t"":""iot/dht11/"
+2026-04-21T23:33:33,homeassistant/sensor/mq_node/gas_sensor/config,362,"{""sug_dsp_prc"":2,""unit_of_meas"":""V"",""stat_cla"":""measurement"",""name"":""Gas Sensor"",""dev_cla"":""voltage"",""stat_t"":""iot/mq/se"
+2026-04-21T23:33:33,homeassistant/binary_sensor/pir_node/motion/config,306,"{""name"":""Motion"",""dev_cla"":""motion"",""stat_t"":""iot/pir/binary_sensor/motion/state"",""avty_t"":""iot/pir/status"",""uniq_id"":""E"
+2026-04-21T23:33:33,esphome/discover/dht11_node,149,"{""ip"":""192.168.8.167"",""name"":""dht11_node"",""version"":""2026.3.2"",""mac"":""348518b90f38"",""platform"":""ESP32"",""board"":""esp32-s3"
+2026-04-21T23:33:33,esphome/discover/mq_node,146,"{""ip"":""192.168.8.203"",""name"":""mq_node"",""version"":""2026.3.2"",""mac"":""348518b91934"",""platform"":""ESP32"",""board"":""esp32-s3-de"
+2026-04-21T23:33:33,esphome/discover/pir_node,147,"{""ip"":""192.168.8.215"",""name"":""pir_node"",""version"":""2026.3.2"",""mac"":""348518b90f68"",""platform"":""ESP32"",""board"":""esp32-s3-d"
+2026-04-21T23:33:33,shellyazplug-node/online,4,true
+2026-04-21T23:33:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:33:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:33:36,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:33:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:33:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:33:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:33:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:33:46,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:33:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:33:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:33:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:33:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:33:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:33:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:33:56,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:33:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:33:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:34:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:34:06,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:34:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:34:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:34:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:34:16,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:34:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:34:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:34:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:34:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:34:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:34:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:34:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:34:36,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:34:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:34:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:34:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:34:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:34:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:34:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:34:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:34:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:34:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 39.0%[0m
+2026-04-21T23:34:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:34:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:34:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:34:56,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:35:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:35:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:35:06,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:35:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:35:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:35:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:35:16,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:35:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:35:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:35:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:35:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:35:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:35:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:35:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:35:36,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:35:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:35:38,iot/pir/binary_sensor/motion/state,3,OFF
+2026-04-21T23:35:38,iot/pir/debug,50,[0;36m[D][binary_sensor:048]: 'Motion' >> OFF[0m
+2026-04-21T23:35:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:35:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:35:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:35:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:35:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:35:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:35:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:35:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:35:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:35:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:35:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:06,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:16,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:36,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:36:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:36:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:36:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:36:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:36:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:36:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:36:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:37:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:37:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:06,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:37:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:37:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 39.0%[0m
+2026-04-21T23:37:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:16,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:37:16,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:37:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:37:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:37:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:37:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:37:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:36,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:37:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:37:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:37:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:37:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:37:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:37:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:37:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:37:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:37:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:37:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:37:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:06,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:16,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:36,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:38:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:38:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:38:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:38:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:38:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:38:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:38:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:06,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:16,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:26,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:36,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:46,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:39:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:39:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:39:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:39:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:39:56,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:39:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:39:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:40:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 39.0%[0m
+2026-04-21T23:40:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:40:06,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:40:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:40:06,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:40:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.0°C Humidity 38.0%[0m
+2026-04-21T23:40:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.0 °C[0m
+2026-04-21T23:40:16,iot/dht11/sensor/temperature/state,4,25.0
+2026-04-21T23:40:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:40:16,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:40:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:40:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:40:26,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:40:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:40:26,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:40:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:40:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:40:36,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:40:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:40:36,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:40:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:40:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:40:46,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:40:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:40:46,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:40:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:40:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:40:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:40:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:40:56,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:40:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:40:56,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:41:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:41:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:41:06,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:41:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:41:06,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:41:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:41:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:41:16,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:41:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:41:16,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:41:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.2°C Humidity 39.0%[0m
+2026-04-21T23:41:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.2 °C[0m
+2026-04-21T23:41:26,iot/dht11/sensor/temperature/state,4,25.2
+2026-04-21T23:41:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:41:26,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:41:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:41:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:41:36,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:41:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:41:36,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:41:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:41:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:41:46,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:41:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:41:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:41:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:41:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:41:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:41:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:41:56,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:41:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:41:56,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:42:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:42:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:06,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:42:06,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:42:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:42:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:16,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:42:16,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:42:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:25,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:42:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:26,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:42:26,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:42:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:42:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:36,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:42:36,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:42:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 38.0%[0m
+2026-04-21T23:42:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:46,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 38 %[0m
+2026-04-21T23:42:46,iot/dht11/sensor/humidity/state,2,38
+2026-04-21T23:42:50,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:50,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:55,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:42:55,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:42:56,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:42:56,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:42:56,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:42:56,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:42:56,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:43:00,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:00,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:05,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:05,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:06,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:43:06,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:43:06,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:43:06,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:43:06,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:43:10,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:10,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:15,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:15,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:16,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.1°C Humidity 39.0%[0m
+2026-04-21T23:43:16,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.1 °C[0m
+2026-04-21T23:43:16,iot/dht11/sensor/temperature/state,4,25.1
+2026-04-21T23:43:16,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:43:16,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:43:20,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:20,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:25,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.60 V[0m
+2026-04-21T23:43:25,iot/mq/sensor/gas_sensor/state,4,0.60
+2026-04-21T23:43:26,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.2°C Humidity 39.0%[0m
+2026-04-21T23:43:26,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.2 °C[0m
+2026-04-21T23:43:26,iot/dht11/sensor/temperature/state,4,25.2
+2026-04-21T23:43:26,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:43:26,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:43:30,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:30,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:35,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:35,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:36,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.2°C Humidity 39.0%[0m
+2026-04-21T23:43:36,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.2 °C[0m
+2026-04-21T23:43:36,iot/dht11/sensor/temperature/state,4,25.2
+2026-04-21T23:43:36,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:43:36,iot/dht11/sensor/humidity/state,2,39
+2026-04-21T23:43:40,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:40,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:45,iot/mq/debug,50,[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.59 V[0m
+2026-04-21T23:43:45,iot/mq/sensor/gas_sensor/state,4,0.59
+2026-04-21T23:43:46,iot/pir/binary_sensor/motion/state,2,ON
+2026-04-21T23:43:46,iot/pir/debug,49,[0;36m[D][binary_sensor:048]: 'Motion' >> ON[0m
+2026-04-21T23:43:46,iot/dht11/debug,59,[0;36m[D][dht:048]: Temperature 25.3°C Humidity 39.0%[0m
+2026-04-21T23:43:46,iot/dht11/debug,53,[0;36m[D][sensor:124]: 'Temperature' >> 25.3 °C[0m
+2026-04-21T23:43:46,iot/dht11/sensor/temperature/state,4,25.3
+2026-04-21T23:43:46,iot/dht11/debug,46,[0;36m[D][sensor:124]: 'Humidity' >> 39 %[0m
+2026-04-21T23:43:46,iot/dht11/sensor/humidity/state,2,39
