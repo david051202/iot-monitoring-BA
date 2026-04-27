@@ -1,0 +1,4 @@
+timestamp,src_ip,src_port,dest_ip,dest_port,proto,signature,category,severity
+2026-04-22T14:55:08.552231+0000,192.168.8.140,51535,192.168.8.236,1883,TCP,SURICATA MQTT message seen before CONNECT/CONNACK completion,Generic Protocol Command Decode,3
+2026-04-22T14:55:22.528411+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3
+2026-04-22T15:00:43.221691+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3

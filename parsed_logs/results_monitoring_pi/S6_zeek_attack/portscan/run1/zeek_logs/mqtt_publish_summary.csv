@@ -1,0 +1,867 @@
+ts,uid,id.orig_h,id.orig_p,id.resp_h,id.resp_p,from_client,retain,qos,status,topic,payload,payload_len
+1776853338.545616,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853338.591106,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853342.281975,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853342.331286,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853343.543004,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853343.588841,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853348.548242,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853348.555385,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853352.284644,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853352.331332,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853353.556532,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853353.602141,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853358.562393,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853358.565365,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853362.290253,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853362.339018,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853363.562444,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853363.610025,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853368.570082,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853368.618498,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853372.295742,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853372.342919,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853373.575075,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853373.579526,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853378.579959,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853378.624579,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853382.295652,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853382.344054,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853383.587584,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853383.632228,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853388.592720,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853388.598639,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853392.302220,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853392.350482,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853393.597570,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853393.646407,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853398.603301,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853398.607650,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853402.306868,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853402.354435,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853403.605037,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853403.653416,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853408.603077,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853408.649311,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853412.309609,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853412.356586,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853413.611981,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853413.616634,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853418.614758,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853418.661915,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853419.189403,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,OFF,3
+1776853419.235527,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> OFF\x1b[0m,50
+1776853422.315426,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853422.361883,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853423.622368,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853423.668856,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853428.622336,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853428.630221,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853432.315056,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853432.363099,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853433.620169,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853433.663513,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853438.624051,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853438.630166,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853442.320644,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853442.367103,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853443.631702,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853443.675618,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853448.635727,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853448.679171,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853452.325326,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853452.372704,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853453.641577,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853453.646059,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853458.649116,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853458.698287,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853462.330057,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853462.377272,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853463.652218,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853463.698847,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853468.660965,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853468.666978,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853472.335640,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853472.381178,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853473.666782,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853473.712019,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853478.667191,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853478.671710,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853482.340371,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853482.393296,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853483.664572,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853483.712010,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853488.672230,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853488.720097,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853492.342146,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853492.390320,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853493.678106,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853493.681199,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853498.702233,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853498.748712,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853502.349671,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853502.395135,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853503.689616,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853503.735585,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853508.695617,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853508.700377,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853510.812031,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,ON,2
+1776853510.858209,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> ON\x1b[0m,49
+1776853512.355994,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853512.404322,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853513.695778,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853513.742012,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853518.693465,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853518.697364,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853522.359995,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853522.406957,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853523.701434,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.50 V\x1b[0m,50
+1776853523.747247,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.50,4
+1776853528.699955,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853528.745733,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853532.363748,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853532.413548,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853533.698960,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853533.701849,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853538.700905,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853538.748747,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853542.368447,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853542.416062,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853543.701504,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853543.706076,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853548.707174,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853548.850712,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853552.373061,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853552.537138,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853553.710976,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853553.754882,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853558.708162,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853558.712848,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853562.380747,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853562.429794,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853563.705135,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853563.750560,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853568.713038,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853568.757245,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853572.384215,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853572.433486,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853573.714897,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853573.718021,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853578.716538,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853578.762471,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853582.388338,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853582.436489,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853583.718100,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853583.724488,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853588.722286,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853588.768835,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853592.396715,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853592.443118,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853593.729791,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853593.776781,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853598.735784,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853598.738873,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853602.403311,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853602.451130,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853603.732889,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853603.776482,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853608.739699,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853608.785945,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853612.404032,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853612.449395,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853613.745361,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853613.749617,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853618.744575,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853618.789704,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853622.411650,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853622.458739,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853623.744938,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853623.749470,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853628.749599,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853628.796142,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853632.414416,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853632.462535,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853633.746938,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853633.792134,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853638.747986,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853638.754568,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853642.419986,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853642.464926,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853643.754401,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853643.801508,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853648.760219,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853648.803854,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853652.425790,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853652.474563,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853653.764248,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853653.767237,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853658.765680,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853658.813041,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853662.429235,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853662.478133,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853663.765540,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853663.769961,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853668.771482,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853668.815920,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853672.434925,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853672.483633,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853673.768988,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853673.816998,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853677.576462,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,OFF,3
+1776853677.623777,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> OFF\x1b[0m,50
+1776853678.773101,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853678.777523,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853682.434162,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.5\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853682.480414,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.5 \xc2\xb0C\x1b[0m,53
+1776853683.779171,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853683.824829,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853688.783049,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853688.828403,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853692.439446,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853692.485563,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853693.788892,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853693.793294,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853698.796654,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853698.844348,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853702.441384,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853702.489677,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853703.802347,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853703.805298,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853708.808293,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853708.856476,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853712.446659,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853712.493276,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853713.813838,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853713.858863,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853718.818122,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853718.821026,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853722.447367,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853722.491660,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853723.819725,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853723.868201,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853728.820355,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853728.866749,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853732.454203,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853732.499430,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853733.825701,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853733.830306,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853738.834619,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853738.878396,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853742.456738,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853742.506221,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853743.837310,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853743.840239,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853748.838829,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853748.883952,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853752.460495,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853752.511654,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853753.842010,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853753.886177,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853758.850342,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853758.875507,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853762.465987,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853762.513748,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853763.849403,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853763.903473,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853768.848479,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853768.895219,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853772.474816,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853772.521633,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853773.849955,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853773.854449,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853778.850009,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853778.893756,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853782.475690,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853782.527017,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853783.848302,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853783.853563,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853788.854482,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853788.899016,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853792.479168,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853792.529329,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853793.860258,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853793.907156,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853798.866353,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853798.870849,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853802.492333,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853802.538258,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853803.869302,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853803.914849,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853808.877929,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853808.922736,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853812.487081,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853812.537482,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853813.883055,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853813.886040,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853818.881856,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853818.926319,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853822.490107,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853822.537976,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853823.887663,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853823.895046,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853828.887333,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853828.934444,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853832.493980,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853832.541789,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853833.886352,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853833.932839,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853838.892299,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853838.896955,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853842.496429,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853842.543263,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853843.898478,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853843.946199,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853848.893933,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853848.941810,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853852.501100,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853852.545551,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853853.896818,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853853.901239,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853858.903530,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853858.948528,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853862.503752,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853862.552317,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853863.909512,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853863.912489,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853868.909037,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853868.953666,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853872.510372,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853872.557236,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853873.912179,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853873.959113,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853878.917968,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853878.922500,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853882.516930,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853882.562812,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853883.925599,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853883.971979,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853888.924742,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853888.971553,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853892.514914,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853892.562523,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853893.927266,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853893.935408,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853896.626103,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,ON,2
+1776853896.671811,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> ON\x1b[0m,49
+1776853898.931511,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853898.975844,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853902.516491,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853902.560759,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853903.937197,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853903.942114,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853908.944836,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853908.991681,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853912.521144,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853912.573457,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776853913.948796,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853913.995468,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853918.954739,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853918.959323,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853922.528092,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853922.573820,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776853923.962361,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853924.008855,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853928.966317,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853929.013059,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853932.532430,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853932.581523,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776853933.973515,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853933.978003,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853938.979910,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853939.042799,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853942.535180,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853942.580026,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776853943.985767,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853943.988751,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853948.989664,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853949.036390,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853952.541928,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853952.589448,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776853953.997214,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853954.045201,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853959.003127,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853959.008032,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853962.541160,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853962.587694,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776853964.003288,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853964.046567,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853969.003827,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853969.052478,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853972.547205,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853972.593063,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776853974.011909,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853974.016437,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853979.007406,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853979.050508,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853982.551786,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853982.600938,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776853984.007608,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853984.010530,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853989.009822,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853989.055840,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853992.555422,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776853992.604753,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776853994.009600,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853994.055556,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776853999.015915,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776853999.018875,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854002.562315,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854002.608715,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854004.019948,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854004.066020,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854009.030715,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854009.075572,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854012.564953,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854012.615864,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854014.027401,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854014.031890,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854019.027491,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854019.075377,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854022.571692,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854022.621679,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854024.033993,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854024.038585,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854029.040082,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854029.085709,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854032.574205,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854032.620010,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854034.046174,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854034.093193,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854039.051611,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854039.056184,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854042.582659,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854042.631998,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854044.055660,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854044.101478,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854049.063238,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854049.110732,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854052.585604,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854052.631742,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854054.064681,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854054.068970,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854059.062225,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854059.110721,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854062.590264,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854062.639825,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854063.466760,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,OFF,3
+1776854063.513043,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> OFF\x1b[0m,50
+1776854064.065357,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854064.069961,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854069.067886,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854069.109051,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854072.597101,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854072.643246,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854074.063162,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854074.108956,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854079.068384,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854079.077399,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854082.603125,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854082.651460,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854084.071345,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854084.116774,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854089.071224,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854089.116559,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854092.608475,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854092.653505,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854094.077093,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854094.082918,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854099.085765,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854099.134809,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854102.610988,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854102.658707,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854104.090400,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854104.094820,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854109.094577,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854109.140330,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854112.616630,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854112.662655,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854114.094795,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854114.141554,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854119.096958,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854119.102025,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854122.626312,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854122.675851,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854124.096790,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854124.140095,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854129.093878,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854129.141882,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854132.627231,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854132.672822,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854134.100609,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854134.106660,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854139.100495,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854139.145095,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854142.631493,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854142.679774,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854144.100502,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854144.103606,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854149.104300,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854149.149240,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854152.638544,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854152.685969,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854154.113198,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854154.159693,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854159.116084,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854159.119088,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854162.643074,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854162.689840,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854164.118006,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854164.167802,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854169.116623,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854169.163335,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854172.648613,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854172.698929,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854174.122627,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854174.127030,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854179.130228,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854179.176853,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854182.657182,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854182.704164,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854184.136178,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854184.139162,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854189.134112,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854189.179202,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854192.663191,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854192.708593,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854194.135786,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854194.180624,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854199.140335,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854199.144865,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854202.662982,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854202.711708,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854204.142819,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854204.188220,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854209.150072,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854209.196328,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854212.667287,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854212.715362,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854214.149012,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854214.152053,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854219.149985,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854219.197300,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854222.672932,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854222.719561,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854224.149907,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854224.154114,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854229.152530,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854229.199873,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854232.680744,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854232.729018,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854234.156624,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854234.204121,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854234.881291,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,ON,2
+1776854234.926388,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> ON\x1b[0m,49
+1776854239.166022,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854239.170482,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854242.680369,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854242.727153,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854244.165305,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854244.210371,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854249.163159,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854249.211656,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854252.683900,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854252.732719,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854254.171715,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854254.180707,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854259.170694,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854259.215669,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854262.684582,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854262.732428,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854264.170381,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854264.173447,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854269.174577,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854269.219239,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854272.691327,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854272.738721,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854274.183528,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854274.231296,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854279.181894,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854279.184994,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854282.696895,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854282.746703,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854284.181317,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854284.226773,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854289.182647,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854289.231016,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854292.701488,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854292.749451,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854294.183320,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854294.187933,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854299.187552,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854299.235014,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854302.705172,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854302.750602,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854304.194242,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854304.198610,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854309.195180,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854309.241172,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854312.709907,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854312.754061,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854314.195123,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854314.240943,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854319.200135,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854319.204737,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854322.714454,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854322.762555,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854324.203483,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854324.248930,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854329.201526,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854329.244997,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854332.716548,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854332.762308,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854334.201439,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854334.205987,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854339.207130,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854339.254130,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854342.720924,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854342.766112,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854344.212965,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854344.216059,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854349.210316,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854349.256317,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854352.726943,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854352.773291,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854354.212350,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854354.259366,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854359.216276,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854359.222135,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854362.730444,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854362.777830,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854364.214470,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854364.261748,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854369.216099,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854369.261540,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854372.734849,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.6\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854372.781134,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.6 \xc2\xb0C\x1b[0m,53
+1776854374.224370,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854374.229959,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854379.220911,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854379.264030,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854382.733690,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854382.782391,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854384.226946,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854384.231370,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854389.228403,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854389.273430,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854392.741257,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.7\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854392.790356,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.7 \xc2\xb0C\x1b[0m,53
+1776854394.230278,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854394.275821,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854399.233538,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854399.236798,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854401.642169,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,OFF,3
+1776854401.688076,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> OFF\x1b[0m,50
+1776854402.745045,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854402.794857,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854404.235970,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854404.280843,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854406.239785,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,ON,2
+1776854406.245388,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> ON\x1b[0m,49
+1776854409.237819,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854409.244009,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854412.751802,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854412.799295,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854414.243784,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854414.289109,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854419.247759,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854419.293097,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854422.754403,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854422.800303,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854424.253599,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854424.261728,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854429.261189,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854429.308910,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854432.763114,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854432.809661,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854434.265151,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854434.311487,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854439.271025,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854439.275470,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854442.761694,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854442.809276,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854444.274726,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854444.321277,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854449.280880,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854449.284394,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854452.767299,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854452.811737,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854454.278525,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854454.332988,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854459.283771,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854459.330713,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854462.771971,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854462.820979,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854464.287136,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854464.290145,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854469.284203,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854469.330612,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854472.779768,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854472.828409,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854474.288686,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854474.338610,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854479.288498,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854479.292909,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854482.781581,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854482.830503,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854484.287649,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854484.335543,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854489.289944,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854489.294725,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854492.785831,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854492.832738,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854494.291179,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854494.340175,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854499.295117,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854499.343647,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854502.786788,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854502.832420,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854504.301766,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854504.306681,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854509.301621,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854509.345802,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854512.793096,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854512.841258,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854514.304659,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854514.350906,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854519.310576,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854519.315272,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854522.796320,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854522.845606,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854524.317973,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854524.362983,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854529.325544,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854529.328568,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854532.807953,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854532.856171,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854534.321939,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854534.367049,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854539.323715,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854539.370995,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854542.811215,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854542.859691,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854544.327544,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854544.332010,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854549.337227,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854549.377121,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854552.813967,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854552.859779,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854554.339875,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854554.386392,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854559.344738,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854559.349188,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854562.814570,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854562.863479,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854564.349617,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854564.392891,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854569.346939,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854569.350564,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854572.441397,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,OFF,3
+1776854572.485056,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> OFF\x1b[0m,50
+1776854572.821252,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854572.867110,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854574.350512,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854574.398280,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854579.350298,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854579.399376,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854582.825939,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854582.875535,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854584.352555,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854584.355430,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854589.350280,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854589.396490,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854592.828721,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854592.873425,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854594.350531,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854594.396450,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854599.355000,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854599.359547,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854602.833438,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854602.881213,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854604.356627,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854604.401775,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854609.357391,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854609.360371,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854612.839210,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854612.886722,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854614.363155,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854614.408080,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854619.361553,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854619.407775,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854622.844453,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854622.890707,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854624.367169,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854624.370115,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854629.373061,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854629.421174,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854632.850074,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854632.898428,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854634.374515,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854634.421051,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854639.374511,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854639.377544,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854642.851062,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854642.898079,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854644.379410,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854644.425108,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854649.384114,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854649.388686,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854652.858554,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854652.905423,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854654.388219,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854654.433035,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854659.397392,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854659.445202,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854662.468499,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/binary_sensor/motion/state,ON,2
+1776854662.517100,Ckws2A3xBXCggrCs7f,192.168.8.215,53899,192.168.8.236,1883,T,T,at most once,ok,iot/pir/debug,\x1b[0;36m[D][binary_sensor:048]: 'Motion' >> ON\x1b[0m,49
+1776854662.861431,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854662.910093,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854664.393026,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854664.395979,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854669.397309,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854669.444714,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854672.868145,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854672.916189,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854674.403362,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854674.448474,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854679.407404,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854679.412042,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854682.872771,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854682.919967,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854684.412741,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854684.463006,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854689.412901,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854689.417229,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854692.876444,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854692.926831,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854694.411859,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854694.458849,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854699.419482,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854699.464079,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854702.884219,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854702.933638,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854704.428112,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854704.432688,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854709.425069,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854709.470692,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854712.883788,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854712.932957,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854714.424176,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854714.471902,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854719.431947,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854719.436343,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854722.886368,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854722.932982,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854724.437674,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854724.483921,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854729.437828,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854729.440831,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854732.896560,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854732.944536,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854734.436529,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854734.483552,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854739.444700,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854739.491630,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4
+1776854742.891847,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][dht:048]: Temperature 24.8\xc2\xb0C Humidity 38.0%\x1b[0m,59
+1776854742.940220,CoadjS0podBzNkyEb,192.168.8.167,61974,192.168.8.236,1883,T,T,at most once,ok,iot/dht11/debug,\x1b[0;36m[D][sensor:124]: 'Temperature' >> 24.8 \xc2\xb0C\x1b[0m,53
+1776854744.447126,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/debug,\x1b[0;36m[D][sensor:124]: 'Gas Sensor' >> 0.51 V\x1b[0m,50
+1776854744.450102,ChRV7a3p6nImGhHtq8,192.168.8.203,65061,192.168.8.236,1883,T,T,at most once,ok,iot/mq/sensor/gas_sensor/state,0.51,4

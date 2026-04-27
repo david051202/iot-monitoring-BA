@@ -1,0 +1,3 @@
+timestamp,src_ip,src_port,dest_ip,dest_port,proto,signature,category,severity
+2026-04-22T14:44:44.465893+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3
+2026-04-22T14:50:00.486637+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3

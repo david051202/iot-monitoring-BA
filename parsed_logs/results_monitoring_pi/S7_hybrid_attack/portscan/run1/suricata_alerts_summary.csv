@@ -1,0 +1,7 @@
+timestamp,src_ip,src_port,dest_ip,dest_port,proto,signature,category,severity
+2026-04-22T12:02:32.237160+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3
+2026-04-22T12:02:46.304101+0000,192.168.8.140,51448,192.168.8.236,135,TCP,ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection,Misc activity,3
+2026-04-22T12:02:46.339384+0000,192.168.8.140,51448,192.168.8.236,137,TCP,ET SCAN Behavioral Unusual Port 137 traffic Potential Scan or Infection,Misc activity,3
+2026-04-22T12:04:52.905501+0000,192.168.8.140,51434,192.168.8.236,135,TCP,ET SCAN Behavioral Unusual Port 135 traffic Potential Scan or Infection,Misc activity,3
+2026-04-22T12:04:52.956612+0000,192.168.8.140,51434,192.168.8.236,137,TCP,ET SCAN Behavioral Unusual Port 137 traffic Potential Scan or Infection,Misc activity,3
+2026-04-22T12:07:49.703876+0000,192.168.8.140,57621,192.168.8.255,57621,UDP,ET INFO Spotify P2P Client,Not Suspicious Traffic,3

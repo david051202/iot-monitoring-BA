@@ -1,0 +1,2 @@
+ts,analyzer_kind,analyzer_name,uid,fuid,id.orig_h,id.orig_p,id.resp_h,id.resp_p,proto,failure_reason,failure_data
+1776841005.637580,protocol,MQTT,CkCUb02eZx6Js4phDk,-,192.168.8.140,58877,192.168.8.236,1883,tcp,Binpac exception: binpac exception: out_of_bound: MQTT_string:str: 14642 > 55,-

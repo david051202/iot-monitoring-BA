@@ -1,0 +1,2 @@
+ts,uid,id.orig_h,id.orig_p,id.resp_h,id.resp_p,proto_name,proto_version,client_id,connect_status,will_topic,will_payload
+1776869708.547348,CLj0M71Q13ugr0nH74,192.168.8.140,51535,192.168.8.236,1883,MQTT,3.1.1,(empty),Connection Accepted,-,-
