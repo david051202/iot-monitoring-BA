@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Router_IoT";
-const char *password = "IoTNetwork123!";
+const char *ssid = "<NETWORK-SSID>";
+const char *password = "<NETWORK-PW>";
 
 void startCameraServer();
 void setupLedFlash();
