@@ -1,0 +1,26 @@
+esphome:
+  name: dht11_node
+
+esp32:
+  board: esp32-s3-devkitc-1
+  framework:
+    type: esp-idf
+
+logger:
+
+mqtt:
+  broker: "<Broker-IP>"
+  topic_prefix: iot/dht11
+
+wifi:
+  ssid: "<Network-SSID>"
+  password: "<Network-PW>"
+
+sensor:
+  - platform: dht
+    pin: GPIO40
+    temperature:
+      name: "Temperature"
+    humidity:
+      name: "Humidity"
+    update_interval: 10s
