@@ -1,0 +1,23 @@
+esphome:
+  name: pir_node
+
+esp32:
+  board: esp32-s3-devkitc-1
+  framework:
+    type: esp-idf
+
+wifi:
+  ssid: "<Network-SSID>"
+  password: "<Network-PW>"
+
+logger:
+
+mqtt:
+  broker: "<Broker-IP>"
+  topic_prefix: iot/pir
+
+binary_sensor:
+  - platform: gpio
+    pin: <GPIOX>
+    name: "Motion"
+    device_class: motion
