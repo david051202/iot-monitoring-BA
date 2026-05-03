@@ -18,7 +18,7 @@ wifi:
 
 sensor:
   - platform: dht
-    pin: GPIO40
+    pin: <GPIOX>
     temperature:
       name: "Temperature"
     humidity:
