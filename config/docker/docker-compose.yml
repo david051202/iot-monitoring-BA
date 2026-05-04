@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+  suricata:
+    image: jasonish/suricata:latest
+    container_name: suricata
+    network_mode: host
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+      - SYS_NICE
+    volumes:
+      - ./suricata:/var/lib/suricata
+      - ./logs/suricata:/var/log/suricata
+    command: >
+      -i INTERFACE -l /var/log/suricata
+
+  zeek:
+    image: zeekurity/zeek:latest
+    container_name: zeek
+    network_mode: host
+    volumes:
+      - ./logs/zeek:/usr/local/zeek/logs
+    command: >
+      zeek -i INTERFACE -C
